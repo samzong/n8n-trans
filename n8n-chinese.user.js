@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  n8n workflow automation platform internationalization
 // @author       samzong
-// @match        http://localhost:5678/*
+ @match        http://192.168.23.58/:5678/*
 // @match        https://localhost:5678/*
 // @match        http://127.0.0.1:5678/*
 // @match        https://127.0.0.1:5678/*
